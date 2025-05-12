@@ -1,0 +1,29 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Jarred13D/Social-Network-API#readme",
+  "bugs": {
+    "url": "https://github.com/Jarred13D/Social-Network-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarred13D/Social-Network-API.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.2",
+    "typescript": "^5.8.3"
+  }
+}
