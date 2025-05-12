@@ -101,6 +101,10 @@ A robust RESTful API for a social network web application, built with Node.js, E
 Use [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/) to test the API endpoints.  
 Make sure to create a user before creating thoughts or reactions.
 
+## Walkthrough
+
+https://app.screencastify.com/v3/watch/AzV5EkonizhbRmdYGgF8
+
 ## License
 
 This project is licensed under the MIT License.
